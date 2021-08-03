@@ -1,2 +1,2 @@
 # tester
-tester repository
+tester repository for git commands demonstration
